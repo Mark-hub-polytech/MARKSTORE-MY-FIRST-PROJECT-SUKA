@@ -33,11 +33,11 @@ You can explore and shop via our official website:
 
 This repository contains the code and assets for our online shop. It may include:
 
-- Frontend (HTML, CSS, JavaScript)  
-- Backend scripts  
+- Frontend (HTML, CSS, JavaScript, React,)  
+- Backend scripts (php, larevel,SQL, ) 
 - Documentation  
 - Database schemas  
-- Deployment config  
+- Deployment config  (InfinityFree)
 
 Feel free to browse, clone, and contribute.
 
